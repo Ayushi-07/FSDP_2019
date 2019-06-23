@@ -8,4 +8,5 @@ Created on Mon Jun  3 11:51:23 2019
 import math
 number = int(input ( " enter a number>"))
 fact = math.factorial(number)
-print (fact)
+print (type(fact))
+print(fact)
